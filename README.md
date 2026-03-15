@@ -1,7 +1,12 @@
-# About me
-My name is Payton Crawford, and I am an economics major planning to graduate in May 2025 from Washington and Lee University
+# Table of Contents
+- [About Me](#Payton-Crawford)
+- [Current Projects](#Current-Projects)
 
-# My interests
-<p>I am interested in economic research and computer architecture. <br>
-I am currently working on my economics honors thesis and participating in an independent study where we are designing our own linux systems from scratch. <br>
-My favorite hobby is swimming, and I am a member of the W&L men's swimming team. <br>
+## Payton Crawford
+I graduated from Washington and Lee University with a BA in Economics with Honors and minors in Computer Science and Mathematics in May 2025. I am currently a Research Assistant at the Federal Reserve Board. I am interested in personal finance applications, 
+
+### Current Projects
+1. Finance app for personal use
+2. Developing personal website
+3. Replicating Japanese-American Internment paper in Python
+
